@@ -1,0 +1,7 @@
+torch==1.11.0+cu113
+jax==0.3.25
+jaxlib==0.3.25
+h5py==3.7.0
+neural-tangents==0.6.1
+scipy==1.7.3
+numpy==1.21.6
